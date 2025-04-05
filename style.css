@@ -1,0 +1,35 @@
+#header {
+    background-color: #F2EFE7;
+}
+
+#footer {
+    background-color: #9ACBD0;
+}
+
+#contact > .container {
+    background-color: #9ACBD0;
+    width: 50%;
+}
+
+#container > .tagline {
+    color: #48A6A7;
+}
+
+.primary-color {
+    color: #48A6A7 !important;
+}
+
+h1 {
+    color: #9ACBD0 !important;
+    font-family: "Charm", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2, h3, h4 {
+    color: #48A6A7;
+}
+
+.btn {
+    width: 200px;
+}
